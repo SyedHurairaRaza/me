@@ -1,0 +1,70 @@
+.a:hover{
+color: black;
+border-width: 20%;
+background-color: white;
+}
+
+.a1{
+    background-image: url("https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?cs=srgb&dl=pexels-cadeau-maestro-1170412.jpg&fm=jpg");
+    /* width: 100vw; */
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a2{
+    background-color: rgba(0, 0, 0, .5);
+}
+.z1 a:hover{
+    background-color: black;
+}
+.a3{
+    font-size: 40px;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+}
+.a4{
+    font-size: 40px;
+    width: 75px;
+    height: 75px;
+}
+.a5{
+    color: green;
+    font-size: 40px;
+    width: 75px;
+    height: 75px;
+}
+.a6{
+    background-color: lightgrey;
+    
+}
+.a9 a:hover{
+    background-color: white;
+    color: black;
+}
+.b1{
+    background-color: red;
+}
+.b2{
+justify-content: flex-end;
+position: absolute;
+left: 66%;
+top: 362%;
+}
+.b3{
+    position: absolute;
+    top: 430%;
+    left:-1% ;
+}
+.b4{
+    position: absolute;
+    top: 420%;
+    left: 66%;
+}
+.b5{
+    background-color: lightgrey;
+}
+.b6{
+    background-color: lightblue;
+}
